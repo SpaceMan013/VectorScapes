@@ -1,0 +1,22 @@
+[
+	{
+		"name": "My wallpaper",
+		"author": "Jahir Fiquitiva",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/1t.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1280 x 720 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Jahir Fiquitiva",
+		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
+		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	}
+]
