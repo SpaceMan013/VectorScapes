@@ -104,22 +104,6 @@
 		"downloadable": true
 	},
 	{
-		"name": "Material Blue",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/2.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/2t.png",
-		"collections": "Material",
-		"downloadable": true
-	},
-	{
-		"name": "Material Orange",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/3.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/3t.png",
-		"collections": "Material",
-		"downloadable": true
-	},
-	{
 		"name": "Stationary",
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/4.png",
@@ -165,6 +149,134 @@
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/9.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/9t.png",
 		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Seoul",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/29.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/29t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Chicago",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/30.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/30t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Dubai",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/31.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/31t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Hongkong",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/32.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/32t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Kuala Lumpur",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/33.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/33t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "London",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/34.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/34t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Moscow",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/35.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/35t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "New York",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/36.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/36t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Paris",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/37.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/37t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Rio de Janeiro",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/38.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/38t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Shanghai",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/39.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/39t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Shenzen",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/40.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/40t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Singapore",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/41.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/41t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Taipei",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/42.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/42t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+		{
+		"name": "Tokyo",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/43.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/43t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Beijing",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/44.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/44t.png",
+		"collections": "Cityscape",
 		"downloadable": true
 	},
 	{
@@ -320,134 +432,6 @@
 		"downloadable": true
 	},
 	{
-		"name": "Seoul",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/29.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/29t.png",
-		"collections": "Cityscape",
-		"downloadable": true
-	},
-	{
-		"name": "Chicago",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/30.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/30t.png",
-		"collections": "Cityscape",
-		"downloadable": true
-	},
-	{
-		"name": "Dubai",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/31.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/31t.png",
-		"collections": "Cityscape",
-		"downloadable": true
-	},
-	{
-		"name": "Hongkong",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/32.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/32t.png",
-		"collections": "Cityscape",
-		"downloadable": true
-	},
-	{
-		"name": "Kuala Lumpur",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/33.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/33t.png",
-		"collections": "Cityscape",
-		"downloadable": true
-	},
-	{
-		"name": "London",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/34.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/34t.png",
-		"collections": "Cityscape",
-		"downloadable": true
-	},
-	{
-		"name": "Moscow",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/35.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/35t.png",
-		"collections": "Cityscape",
-		"downloadable": true
-	},
-	{
-		"name": "New York",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/36.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/36t.png",
-		"collections": "Cityscape",
-		"downloadable": true
-	},
-	{
-		"name": "Paris",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/37.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/37t.png",
-		"collections": "Cityscape",
-		"downloadable": true
-	},
-	{
-		"name": "Rio de Janeiro",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/38.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/38t.png",
-		"collections": "Cityscape",
-		"downloadable": true
-	},
-	{
-		"name": "Shanghai",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/39.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/39t.png",
-		"collections": "Cityscape",
-		"downloadable": true
-	},
-	{
-		"name": "Shenzen",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/40.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/40t.png",
-		"collections": "Cityscape",
-		"downloadable": true
-	},
-	{
-		"name": "Singapore",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/41.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/41t.png",
-		"collections": "Cityscape",
-		"downloadable": true
-	},
-	{
-		"name": "Taipei",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/42.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/42t.png",
-		"collections": "Cityscape",
-		"downloadable": true
-	},
-		{
-		"name": "Tokyo",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/43.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/43t.png",
-		"collections": "Cityscape",
-		"downloadable": true
-	},
-	{
-		"name": "Beijing",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/44.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/44t.png",
-		"collections": "Cityscape",
-		"downloadable": true
-	},
-	{
 		"name": "Contours [teal]",
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/52.png",
@@ -462,7 +446,22 @@
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/53t.png",
 		"collections": "Minimal",
 		"downloadable": true
+	},
+	{
+		"name": "Material Blue",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/2.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/2t.png",
+		"collections": "Material",
+		"downloadable": true
+	},
+	{
+		"name": "Material Orange",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/3.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/3t.png",
+		"collections": "Material",
+		"downloadable": true
 	}
-
 	
 ]
