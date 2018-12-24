@@ -4,7 +4,31 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/45.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/45t.png",
-		"collections": "Cityscape",
+		"collections": "Landscape",
+		"downloadable": true
+	},
+	{
+		"name": "Container Ship",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/59.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/59t.png",
+		"collections": "Minimal|Latest",
+		"downloadable": true
+	},
+	{
+		"name": "Blue and Gold Macaw",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/61.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/61t.png",
+		"collections": "Stamps|Latest",
+		"downloadable": true
+	},
+	{
+		"name": "Grosbeak",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/60.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/60t.png",
+		"collections": "Stamps|Latest",
 		"downloadable": true
 	},
 	{
