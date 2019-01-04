@@ -8,6 +8,14 @@
 		"downloadable": true
 	},
 	{
+		"name": "Edinburg",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/62.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/62t.png",
+		"collections": "Latest|Cityscape",
+		"downloadable": true
+	},
+	{
 		"name": "Container Ship",
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/59.png",
