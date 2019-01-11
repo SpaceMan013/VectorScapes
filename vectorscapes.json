@@ -72,6 +72,14 @@
 		"downloadable": true
 	},
 	{
+		"name": "Material 6",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/65.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/65t.png",
+		"collections": "Material",
+		"downloadable": true
+	},
+	{
 		"name": "Material 3",
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/56.png",
