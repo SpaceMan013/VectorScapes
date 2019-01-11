@@ -1,5 +1,21 @@
 [
 	{
+		"name": "SmartPhone Blue",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/63.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/63t.png",
+		"collections": "Minimal|Latest",
+		"downloadable": true
+	},
+	{
+		"name": "SmartPhone Teal",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/64.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/64t.png",
+		"collections": "Minimal|Latest",
+		"downloadable": true
+	},
+	{
 		"name": "Happy New Year",
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/45.png",
