@@ -2,6 +2,22 @@
 	{
 		"name": "SmartPhone Blue",
 		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/67.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/67t.png",
+		"collections": "Stamps|Latest",
+		"downloadable": true
+	},
+	{
+		"name": "Geometry",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/66.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/66t.png",
+		"collections": "Abstract|Latest",
+		"downloadable": true
+	},
+	{
+		"name": "SmartPhone Blue",
+		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/63.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/63t.png",
 		"collections": "Minimal|Latest",
@@ -388,7 +404,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/16.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/16t.png",
-		"collections": "Miscellaneous",
+		"collections": "Abstract",
 		"downloadable": true
 	},
 	{
@@ -396,7 +412,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/17.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/17t.png",
-		"collections": "Miscellaneous",
+		"collections": "Abstract",
 		"downloadable": true
 	},
 	{
