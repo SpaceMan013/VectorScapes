@@ -1,5 +1,21 @@
 [
 	{
+		"name": "Color Blocks",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/68.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/68t.png",
+		"collections": "Abstract|Latest",
+		"downloadable": true
+	},
+	{
+		"name": "New Horizon",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/69.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/69t.png",
+		"collections": "Minimal|Latest",
+		"downloadable": true
+	},
+	{
 		"name": "Telescope",
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/67.png",
@@ -20,7 +36,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/63.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/63t.png",
-		"collections": "Minimal|Latest",
+		"collections": "Minimal",
 		"downloadable": true
 	},
 	{
@@ -28,7 +44,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/64.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/64t.png",
-		"collections": "Minimal|Latest",
+		"collections": "Minimal",
 		"downloadable": true
 	},
 	{
@@ -44,7 +60,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/62.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/62t.png",
-		"collections": "Latest|Cityscape",
+		"collections": "Cityscape",
 		"downloadable": true
 	},
 	{
@@ -52,7 +68,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/59.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/59t.png",
-		"collections": "Minimal|Latest",
+		"collections": "Minimal",
 		"downloadable": true
 	},
 	{
@@ -60,7 +76,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/61.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/61t.png",
-		"collections": "Stamps|Latest",
+		"collections": "Stamps",
 		"downloadable": true
 	},
 	{
@@ -68,7 +84,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/60.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/60t.png",
-		"collections": "Stamps|Latest",
+		"collections": "Stamps",
 		"downloadable": true
 	},
 	{
