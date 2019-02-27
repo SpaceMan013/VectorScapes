@@ -1,5 +1,13 @@
 [
 	{
+		"name": "Explore",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/73.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/73t.png",
+		"collections": "Landscape|Latest",
+		"downloadable": true
+	},
+	{
 		"name": "Success",
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/72.png",
