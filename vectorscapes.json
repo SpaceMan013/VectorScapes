@@ -1,5 +1,12 @@
 [
-	
+	{
+		"name": "Success",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/72.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/72t.png",
+		"collections": "Abstract|Latest",
+		"downloadable": true
+	},
 	{
 		"name": "Forward Forever",
 		"author": "SpaceMan",
