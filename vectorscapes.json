@@ -1,5 +1,13 @@
 [
 	{
+		"name": "Explore - Night",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/74.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/74t.png",
+		"collections": "Landscape|Latest",
+		"downloadable": true
+	},
+	{
 		"name": "Explore",
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/73.png",
