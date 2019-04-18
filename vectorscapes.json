@@ -1,5 +1,13 @@
 [
 	{
+		"name": "Triangulation",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/78.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/78t.png",
+		"collections": "Minimal|Latest",
+		"downloadable": true
+	},
+	{
 		"name": "The World - OLED",
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/76.png",
