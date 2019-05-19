@@ -1,5 +1,13 @@
 [
 	{
+		"name": "Solar System",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/79.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/79t.png",
+		"collections": "Minimal|Latest",
+		"downloadable": true
+	},
+	{
 		"name": "Triangulation",
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/78.png",
