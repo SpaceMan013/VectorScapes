@@ -1,5 +1,13 @@
 [
 	{
+		"name": "Made for Speed",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/81.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/81t.png",
+		"collections": "Minimal|Latest",
+		"downloadable": true
+	},
+	{
 		"name": "Solar System",
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/79.png",
@@ -28,7 +36,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/76.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/76t.png",
-		"collections": "Minimal|Latest",
+		"collections": "Minimal",
 		"downloadable": true
 	},
 	{
@@ -36,7 +44,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/77.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/77t.png",
-		"collections": "Minimal|Latest",
+		"collections": "Minimal",
 		"downloadable": true
 	},
 	{
@@ -44,7 +52,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/75.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/75t.png",
-		"collections": "Landscape|Latest",
+		"collections": "Landscape",
 		"downloadable": true
 	},
 	{
@@ -52,7 +60,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/74.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/74t.png",
-		"collections": "Landscape|Latest",
+		"collections": "Landscape",
 		"downloadable": true
 	},
 	{
@@ -60,7 +68,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/73.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/73t.png",
-		"collections": "Landscape|Latest",
+		"collections": "Landscape",
 		"downloadable": true
 	},
 	{
@@ -68,7 +76,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/72.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/72t.png",
-		"collections": "Abstract|Latest",
+		"collections": "Abstract",
 		"downloadable": true
 	},
 	{
@@ -76,7 +84,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/71.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/71t.png",
-		"collections": "Abstract|Latest",
+		"collections": "Abstract",
 		"downloadable": true
 	},
 	{
@@ -84,7 +92,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/70.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/70t.png",
-		"collections": "Minimal|Latest",
+		"collections": "Minimal",
 		"downloadable": true
 	},
 	{
@@ -92,7 +100,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/68.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/68t.png",
-		"collections": "Abstract|Latest",
+		"collections": "Abstract",
 		"downloadable": true
 	},
 	{
@@ -100,7 +108,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/69.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/69t.png",
-		"collections": "Minimal|Latest",
+		"collections": "Minimal",
 		"downloadable": true
 	},
 	{
@@ -108,7 +116,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/67.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/67t.png",
-		"collections": "Stamps|Latest",
+		"collections": "Stamps",
 		"downloadable": true
 	},
 	{
@@ -116,7 +124,7 @@
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/66.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/66t.png",
-		"collections": "Abstract|Latest",
+		"collections": "Abstract",
 		"downloadable": true
 	},
 	{
