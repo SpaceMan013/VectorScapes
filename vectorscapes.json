@@ -1,5 +1,21 @@
 [
 	{
+		"name": "Mountain Hike",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/84.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/84t.png",
+		"collections": "Landscape|Latest",
+		"downloadable": true
+	},
+	{
+		"name": "Mountain Hike 2",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/85.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/85t.png",
+		"collections": "Landscape|Latest",
+		"downloadable": true
+	},
+	{
 		"name": "Airport",
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/83.png",
