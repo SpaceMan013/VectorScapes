@@ -1,5 +1,13 @@
 [
 	{
+		"name": "Aurora Borealis",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/47.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/47t.png",
+		"collections": "Landscape",
+		"downloadable": true
+	},
+	{
 		"name": "Made for Speed: Revolt",
 		"author": "SpaceMan",
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/86.png",
@@ -269,14 +277,6 @@
 		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/58.png",
 		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/58t.png",
 		"collections": "Material",
-		"downloadable": true
-	},
-	{
-		"name": "Aurora Borealis",
-		"author": "SpaceMan",
-		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/47.png",
-		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/47t.png",
-		"collections": "Landscape",
 		"downloadable": true
 	},
 	{
